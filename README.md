@@ -59,8 +59,8 @@ The protocol synopsis establishes core operational, ethical, and safety controls
 | File | Description | Status |
 | :--- | :--- | :---: |
 | [`README.md`](./README.md) | Technical project sheet, study design overview, operational standards, regulatory references, and simulation notice. | Current (`v1.0`) |
-| [`Clinical Trial Protocol Synopsis Gimglutida DM2 (EN).pdf`] (https://github.com/J-BrotonsPomares/clinical-trial-protocol-synopsis-gimglutida-DM2/blob/0efab90fe7021185a6c0bf8e8813d6dad77dc008/Clinical%20Trial%20Protocol%20Synopsis%20Gimglutida%20DM2%20(EN).pdf)| Complete Phase IIb Clinical Trial Protocol Synopsis (`GIM-2026-T2D-01`) — **English Edition**. | Current (`v1.0`) |
-| [`Clinical Trial Protocol Synopsis Gimglutida DM2.pdf`](https://github.com/J-BrotonsPomares/clinical-trial-protocol-synopsis-gimglutida-DM2/blob/0efab90fe7021185a6c0bf8e8813d6dad77dc008/Clinical%20Trial%20Protocol%20Synopsis%20Gimglutida%20DM2.pdf)| Complete Phase IIb Clinical Trial Protocol Synopsis (`GIM-2026-T2D-01`) — **Spanish Edition**. | Current (`v1.0`) |
+| [`Clinical Trial Protocol Synopsis Gimglutida DM2 (EN).pdf`](./Clinical%20Trial%20Protocol%20Synopsis%20Gimglutida%20DM2%20(EN).pdf) | Complete Phase IIb Clinical Trial Protocol Synopsis (`GIM-2026-T2D-01`) — **English Edition**. | Current (`v1.0`) |
+| [`Clinical Trial Protocol Synopsis Gimglutida DM2.pdf`](./Clinical%20Trial%20Protocol%20Synopsis%20Gimglutida%20DM2.pdf) | Complete Phase IIb Clinical Trial Protocol Synopsis (`GIM-2026-T2D-01`) — **Spanish Edition**. | Current (`v1.0`) |
 
 ---
 
